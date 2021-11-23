@@ -33,9 +33,20 @@ img {
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 10px;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
 
+}
+
+.startbutton button{
+  margin-top: 30px;
+  box-sizing: border-box;
+  background-color: rgb(107, 6, 6);
+  color: white;
+  border-radius: 20%;
+  font-family: 'Press Start 2P', cursive;
+  height: 50px;
+  width: 150px;
 }
